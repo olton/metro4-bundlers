@@ -1,0 +1,12 @@
+{
+  "name": "metro4-bundlers",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "keywords": [],
+  "author": "Serhii Pimenov <serhii@pimenov.com.ua>",
+  "license": "ISC",
+  "dependencies": {
+    "metro4": "^4.5.9"
+  }
+}

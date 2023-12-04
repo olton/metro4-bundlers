@@ -1,0 +1,17 @@
+{
+  "name": "metro4-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@parcel/transformer-less": "^2.10.3",
+    "lightningcss-win32-x64-msvc": "^1.22.1",
+    "parcel": "^2.10.3"
+  }
+}
