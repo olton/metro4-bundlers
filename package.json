@@ -7,6 +7,6 @@
   "author": "Serhii Pimenov <serhii@pimenov.com.ua>",
   "license": "ISC",
   "dependencies": {
-    "metro4": "^4.5.9"
+    "metro4": "^4.5.10"
   }
 }
